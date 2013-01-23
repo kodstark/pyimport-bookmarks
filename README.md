@@ -1,4 +1,4 @@
-## pyimport_bookmarks
+## Import bookmarks in Python
 
 Import Firefox bookmarks to Google / GMarks bookmarks.
 
